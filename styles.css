@@ -1,19 +1,20 @@
 
 /* Your CSS Code here. */
  table,th,td{
-	border:1px solid black;
+	border:1.6px solid black;
 	border-collapse:collapse;
 	padding:1px;
     width:40pc;
 }
 
-/*  th{
+ th{
 	background:rgb(216, 82, 102);
    color:white;
-	font-size:normal; 
+/* 	font-style:normal;  */
 	text-align: left;
 } 
 td{
 	 text-align: right;
+/* 	font-style:normal; */
 }
-  */
+
